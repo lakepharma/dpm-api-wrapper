@@ -9,6 +9,7 @@
             "email": "skyler.bakken@medna.us"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "classmap": [
@@ -16,7 +17,7 @@
         ],
         "psr-4": {
             "App\\": "app/",
-            "lakepharma\\dpm-api-wrapper\\": "lakepharma/dpm-api-wrapper/src"
+            "lakepharma\\dpm-api-wrapper\\": "src/"
         }
     }
 }

@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'lakepharma\\dpm-api-wrapper\\' => array($baseDir . '/lakepharma/dpm-api-wrapper/src'),
+    'lakepharma\\dpm-api-wrapper\\' => array($baseDir . '/src'),
     'App\\' => array($baseDir . '/app'),
 );

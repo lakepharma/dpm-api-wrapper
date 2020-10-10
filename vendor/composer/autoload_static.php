@@ -20,7 +20,7 @@ class ComposerStaticInit1f36599e8a62b3eccbe089a10c184e74
     public static $prefixDirsPsr4 = array (
         'lakepharma\\dpm-api-wrapper\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/lakepharma/dpm-api-wrapper/src',
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'App\\' => 
         array (
